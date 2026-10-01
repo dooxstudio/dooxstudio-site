@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dooxstudio.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dooxstudio.com/</loc><lastmod>2026-10-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/immobiliere-du-roi/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/apero-drive/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/zone-police-brunau/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/domiris/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/heka/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/sace/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/valet-for-homes/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/realisations/ad-parc-jardins/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/covering-visibilite-vehicule/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/charte-graphique-definition/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/identite-visuelle-plus-quun-logo/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/vitrine-meilleur-vendeur/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/blog/textile-personnalise-image-marque/</loc><lastmod>2026-10-01</lastmod><priority>0.7</priority></url>
+  <url><loc>https://dooxstudio.com/services/identite-visuelle/</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
+  <url><loc>https://dooxstudio.com/services/impression-print/</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
+  <url><loc>https://dooxstudio.com/services/enseigne-vitrophanie/</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
+  <url><loc>https://dooxstudio.com/services/covering-vehicule/</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
+  <url><loc>https://dooxstudio.com/services/textile-personnalise/</loc><lastmod>2026-10-01</lastmod><priority>0.9</priority></url>
 </urlset>
